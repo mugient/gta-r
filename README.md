@@ -3,7 +3,7 @@
 Grand Theft Auto: Reimagined.
 A mod made to improve the experience of Old Grand Theft Auto games (3D series)
 
-![Discord](https://img.shields.io/badge/Discord-Join%20the%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white) ![Downloads](https://img.shields.io/badge/Download-Latest%20Release-2ea44f?style=for-the-badge&logo=github) (https://img.shields.io/badge/Game-GTA%20V-orange?style=for-the-badge)
+![Discord](https://img.shields.io/badge/Discord-Join%20the%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white) ![Downloads](https://img.shields.io/badge/Download-Latest%20Release-2ea44f?style=for-the-badge&logo=github) 
 
 [A short, one- or two-sentence description explaining what your mod does.]
 
